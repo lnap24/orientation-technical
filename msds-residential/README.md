@@ -8,7 +8,7 @@
 ## Schedule
 | Date | Place | Time | Activity | Evening | Materials |
 |----------------------|----------|---------------|-|-|-|
-| Thursday, June 13, 2024 | Data Science, Room 305 | 13:00-17:00 | orientation | homework | slides |
+| Thursday, June 13, 2024 | Data Science, Room 305 | 13:00-17:00 | orientation | homework | [slides](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/ETpPw3RRp89Fh78x3KR-k3QBEaUfmFPngawy7HuZRhTmMw?e=ZWyspi) |
 | Friday, June 14, 2024 | Data Science, Room 205 | 13:00-17:00 | orientation | homework | slides| 
 | Saturday, June 15, 2024 | n/a | 4 hours | homework | homework ||
 | Sunday, June 16, 2024 | n/a | 4 hours | homework | homework ||
@@ -38,7 +38,7 @@ You may complete these items in any order
 
    Our main deliverable is a slideshow that serves as a facebook for our cohort. We will use the data from the computer survey.
    
-    * explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
+    * explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=Vhcq1g)
     * make a histogram - using the tools you have learned over the orientation make a histogram representing the information contained in our dataset 
     * create your slide in the presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY)
        * Your Name
@@ -93,10 +93,8 @@ This orientation takes place over two days. The main modality is the mini-lectur
 |  | Mini-Lecture | R/RStudio |
 |  | Mini-Lecture | Make Class Facebook | 
 |  | Finale  | Present Facebook | 
-|----------------------|----------|---------------|
 
 
-| Day 2 | Data Science Building Room 305 | 09:00-11:15, 13:00-15:45 | class | homework |
 
 ## Recommended Reference Resources
 Programming
